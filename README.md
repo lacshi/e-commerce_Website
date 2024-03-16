@@ -1,2 +1,2 @@
 # e-commerce_Website
-Sample e-commercew website (front-end part) in one index file 
+Sample e-commerce website (front-end part) in one index file 
